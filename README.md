@@ -2,7 +2,7 @@
 Bootcamp Unit 19 PWA Homework: Online/Offline Budget Tracker
 
 ## Project Links
-Link to the GitHub Repository: [GitHub Repo]()
+Link to the GitHub Repository: [GitHub Repo](https://github.com/lvaillancourt8/Budget-Tracker)
 
 Link to the Live App: [Live App]()
 
@@ -43,3 +43,5 @@ THEN that will be shown on the page, and added to their transaction history when
 ## Mock-Up
 
 The following images show the web application's appearance and functionality:
+
+![budgetAppScreenshot](https://user-images.githubusercontent.com/55712456/140408381-a5efe49c-877d-4d24-9a35-7bff169e0777.png)
